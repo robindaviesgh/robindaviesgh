@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @robindaviesgh
 - 👀 I’m interested in data analytics
-- 🌱 I’m currently learning BigQuery
+- 🌱 I’m currently learning advanced BigQuery and python
 - 💞️ I’m looking to collaborate on interesting analytics projects
 - 📫 How to reach me: find me in the OVO address book
 
